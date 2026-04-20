@@ -267,7 +267,7 @@ p {
     right: 0;
     bottom: 0;
 
-    background-image: url('..images/fon.jpg');
+    background-image: url('../images/fon.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
