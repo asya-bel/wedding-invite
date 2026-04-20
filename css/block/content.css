@@ -210,7 +210,7 @@ p {
 }
 
 .program-box {              
-    background-image: url('../images/sticker.png'); 
+    background-image: url('../sticker.png'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
