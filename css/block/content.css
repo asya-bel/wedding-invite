@@ -268,16 +268,21 @@ p {
     right: 0;
     bottom: 0;
 
-    background-image: url('/images/fon.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
     filter: blur(3px) brightness(0.7);
     z-index: -1;
     object-fit: cover;
 }
 
+.plan-img {
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    object-fit: cover;
+}
 
 
 .map-btn {
